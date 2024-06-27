@@ -9,7 +9,7 @@
 
 <main>
         <!--? slider Area Start-->
-        <div class="slider-area  position-relative ">
+        <div class="slider-area  position-relative">
             <div class="slider-active">
                 <!-- Single Slider -->
                 <div class="single-slider position-relative hero-overly slider-height  d-flex align-items-center"
